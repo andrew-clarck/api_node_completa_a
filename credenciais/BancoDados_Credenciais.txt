@@ -1,0 +1,6 @@
+andrewclarck_db_user
+ZZgXQPmu0YUDV7xG
+
+mongodb+srv://andrewclarck_db_user:ZZgXQPmu0YUDV7xG@biblioteca.curppnz.mongodb.net/?appName=Biblioteca
+
+Informações Cluster Biblioteca MongoDB
